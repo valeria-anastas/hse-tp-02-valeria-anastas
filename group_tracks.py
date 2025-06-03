@@ -31,3 +31,4 @@ if __name__ == "__main__":
     input_dirs = ['Chill Vibes', 'Classic Hits', 'Jazz Essentials', 'Rock Anthems']
     output_dir = 'Grouped Artists'
     group_tracks_by_artist(input_dirs, output_dir)
+Режим вывода команд на экран (ECHO) включен.
